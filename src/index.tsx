@@ -132,7 +132,7 @@ render(
 					if(newLength > oldLength) {
 						setState('board', { from: 0, to: oldLength - 1 }, 'length', newLength);
 						setState('board', { from: 0, to: oldLength - 1 }, { from: oldLength, to: newLength - 1}, rc => ({v: null, c: ''}));//need to be functional form, otherwise share same reference across all!
-						setState('board', { from: oldLength, to: newLength - 1}, Array(newLength));
+						setState('board', { from: oldLength, to: newLength - 1}, row => Array(newLength));
 						setState('board', { from: oldLength, to: newLength - 1}, {}, rc => ({v: null, c: ''}));
 					} else {
 						setState('board', { from: 0, to: newLength - 1 }, 'length', newLength);
