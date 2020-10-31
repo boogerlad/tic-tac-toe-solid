@@ -163,6 +163,7 @@ render(
 
 /* todo:
 write immer variant
+time travel steps (https://codepen.io/gaearon/pen/gWWZgR) - clear if indicies that are out of bounds are referenced due to resize
 tests
 document where rerendering is minimized :)
 	if column is null, onClick will rerender the entire thing(easy to see with {Date.now()})
