@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/tic-tac-toe-solid/static/css/main.23f05770.chunk.css",
-    "main.js": "/tic-tac-toe-solid/static/js/main.07e658cf.chunk.js",
+    "main.js": "/tic-tac-toe-solid/static/js/main.9c696dbf.chunk.js",
     "runtime~main.js": "/tic-tac-toe-solid/static/js/runtime~main.309be72a.js",
     "static/js/2.f4d2ba0c.chunk.js": "/tic-tac-toe-solid/static/js/2.f4d2ba0c.chunk.js",
     "index.html": "/tic-tac-toe-solid/index.html",
-    "precache-manifest.7851539d142f0f33588bef4d9c8ca4e4.js": "/tic-tac-toe-solid/precache-manifest.7851539d142f0f33588bef4d9c8ca4e4.js",
+    "precache-manifest.562c93e75b6c644ab3a028dc40de7b78.js": "/tic-tac-toe-solid/precache-manifest.562c93e75b6c644ab3a028dc40de7b78.js",
     "service-worker.js": "/tic-tac-toe-solid/service-worker.js"
   }
 }
